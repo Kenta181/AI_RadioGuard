@@ -51,6 +51,6 @@ The system emphasizes **non-intrusive monitoring** and is designed for legal, re
 (See `docs/` for detailed setup guides)
 
 ```bash
-git clone [https://github.com/yourusername/ai-radioguard.git](https://github.com/yourusername/ai-radioguard.git)
+git clone [https://github.com/kenta181/ai-radioguard.git](https://github.com/kenta181/ai-radioguard.git)
 cd ai-radioguard
 docker-compose up
